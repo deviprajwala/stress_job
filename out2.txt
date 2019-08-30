@@ -1,0 +1,13 @@
+Enter the number of weeks
+Enter the value of low stress work
+Enter the value of high stress work
+The matrix is
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 80 80 80 80 80 
+0 0 80 85 85 85 85 
+0 0 80 85 165 165 165 
+0 0 80 85 165 215 215 
+0 0 80 85 165 215 235 
+Optimal solution is 235
+Composition is 20 50 80 5 80 
