@@ -2,11 +2,21 @@
 #include<stdlib.h>
 
 void input(int l[50],int h[50],int n);
+#function to get the input values for the program
+
 void print(int matrix[50][50],int n);
+#function to print the matrix elements
+
 void init(int matrix[50][50],int n);
+#function to initialise the matrix
+
 int check(int matrix[50][50],int i,int j,int l[50],int h[50],int n);
+
 int max(int a,int b,int c);
+#function to get the maximum element
+
 void comp(int matrix[50][50],int n);
+#function to perform the computation
 
 void main()
 {
